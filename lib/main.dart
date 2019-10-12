@@ -70,7 +70,7 @@ class _HomeState extends State<Home> {
           toolbarOpacity: 0.8,
           backgroundColor: Colors.green,
           title: Text(
-            "Cass Soft - Calculadora de IMC",
+            "Cass Software - Calculadora de IMC",
             style: TextStyle(
               fontSize: 17.0
             ),
